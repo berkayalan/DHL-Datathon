@@ -8,6 +8,8 @@ Analizler sonucunda, lojistik ve tedarik zinciri sektörünü bir adım ileriye 
 Bu sebeple 2021 yılı içerisinde 3.’sünü gerçekleşecek Teknolojistik yarışması, Datathon konsepti ile devam ederek; Makine Öğrenimi, Büyük Veri ve Yapay Zeka algoritmaları ile gelişen teknolojide bir adım önde olma imkanı
 sağlayacaktır.
 
+![DHL Datathon](DHL Datathon.jpeg)
+
 ## Connect with our Team : Databled
 
 - [Berkay Alan](https://www.linkedin.com/in/berkayalan/)
