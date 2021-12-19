@@ -8,7 +8,8 @@ Analizler sonucunda, lojistik ve tedarik zinciri sektörünü bir adım ileriye 
 Bu sebeple 2021 yılı içerisinde 3.’sünü gerçekleşecek Teknolojistik yarışması, Datathon konsepti ile devam ederek; Makine Öğrenimi, Büyük Veri ve Yapay Zeka algoritmaları ile gelişen teknolojide bir adım önde olma imkanı
 sağlayacaktır.
 
-## Let us introduce our amazing team: Reform the Norm
+## Let us introduce our amazing team: Databled
+
 
 ![This is our team](Team.jpeg)
 
